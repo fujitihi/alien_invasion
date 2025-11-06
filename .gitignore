@@ -1,0 +1,19 @@
+# editor backups & temp files
+*~
+.#*
+*.swp
+*.swo
+*.tmp
+*.orig
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python cache folders
+__pycache__/
+*.pyc
+
+# virtual environments
+venv/
+.env
